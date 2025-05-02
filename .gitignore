@@ -1,0 +1,17 @@
+# Lingkungan Virtual Python
+venv/
+
+# Folder output Ultralytics/YOLO
+runs/
+
+# Cache Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# File konfigurasi IDE
+.vscode/
+
+# File model standar (jika diunduh otomatis)
+*.pt
+*.weights
